@@ -1,0 +1,6 @@
+{
+  "name": "CivicLens",
+  "description": "AI-powered civic complaint triage system — From citizen complaints to civic action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
